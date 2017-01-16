@@ -1,2 +1,2 @@
-# Conway_Game_of_Life
+# Conwayova Hra života
 Implementace známého celulárního automatu v prostředí R
