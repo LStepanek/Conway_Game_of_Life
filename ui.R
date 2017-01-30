@@ -581,7 +581,7 @@ shinyUI(fluidPage(
                 <br>
                 <figure>
                 <img src='R_pentomino.jpg' align = 'center', width = '100px'/>
-                <figcaption>R-penotmino</figcaption>
+                <figcaption>R-pentomino</figcaption>
                 </figure>
                 </li>
                 <br>
